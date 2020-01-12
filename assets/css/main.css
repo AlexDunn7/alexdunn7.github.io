@@ -31,6 +31,10 @@ ol, ul {
 	list-style: none;
 }
 
+.alex {
+    color: #a55eea;
+}
+
 blockquote, q {
 	quotes: none;
 }
